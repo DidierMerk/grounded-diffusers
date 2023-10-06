@@ -1,5 +1,7 @@
 # Grounded Diffusers
 
+![](./poster.png)
+
 This repository builds on top of the paper [Guiding Text-to-Image Diffusion Model Towards Grounded Generation
 ](https://arxiv.org/abs/2301.05221) whose code is available [here](https://github.com/Lipurple/Grounded-Diffusion) and re-implements it using the HuggingFace's [diffusers](https://github.com/huggingface/diffusers) library in addition to several improvements including:
 
