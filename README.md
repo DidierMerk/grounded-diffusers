@@ -10,7 +10,7 @@ This repository builds on top of the paper [Guiding Text-to-Image Diffusion Mode
 - Multi-epoch training
 - Choice of loss function (BCE, Dice, Dice + BCE, Log-Cosh + BCE)
 
-The details of our contribution are elaborated on in the [project's paper](https://github.com/WalterSimoncini/grounded-diffusers/blob/master/paper.pdf)
+The details of our contribution are elaborated on in the [project's paper](https://github.com/joangog/grounded-diffusers/blob/master/paper.pdf)
 
 ## Qualitative Results
 
